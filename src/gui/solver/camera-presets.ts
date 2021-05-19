@@ -54,6 +54,11 @@ export const cameraPresets: { [id: string]: CameraPreset } = {
     sensorWidth: 22.3,
     sensorHeight: 14.9
   },
+  'canon_90d': {
+    displayName: 'Canon 90D',
+    sensorWidth: 22.3,
+    sensorHeight: 14.8
+  },
   'canon_500d': {
     displayName: 'Canon 500D',
     sensorWidth: 22.3,
